@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚🎓 Estudante de Ciência da Computação💻 
+<p align="left">📚🎓 Atualmente Cursando Ciência da Computação💻 
 <br>🚀 Aprendendo, criando e crescendo um commit por vez🎲!
 </p>
 
